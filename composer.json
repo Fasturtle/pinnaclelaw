@@ -1,0 +1,16 @@
+{
+  "name": "moses/gargoyle",
+  "description": "The Laravel Framework.",
+  "keywords": ["framework", "laravel"],
+  "license": "MIT",
+  "type": "project",
+  "homepage": "http://mosesinc.com",
+  "authors": [{
+    "name": "Kyle Anderson",
+    "email": "kyle@divspace.com",
+    "homepage": "https://divspace.com"
+  }],
+  "require": {
+    "php": ">=5.5.9"
+  }
+}

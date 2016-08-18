@@ -1,0 +1,64 @@
+{   
+    "lists":{
+        "disclaimer":{
+            "links":{
+                "Disclaimer":"/disclaimer/",
+                "Privacy Policy":"/privacy-policy/"
+            }
+        }
+    },
+    "pages":[
+        {
+            "title":"Disclaimer",
+            "url":"/disclaimer/",
+            "background": {
+                "portrait": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+                "landscape": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            },
+            
+            "sub_nav":{
+                    "type":"list",
+                    "name":"disclaimer"
+                },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Pinnacle Law Disclaimer<\/h2>"
+                        },
+                    "bottom":{
+                            "html": "<h2>What information do we collect?<\/h2><p>We collect information from you when you register on our site.<\/p><p>When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.<\/p><h2>What do we use your information for?<\/h2><p>Any of the information we collect from you may be used in one of the following ways:<\/p><ul><li>&mdash; To personalize your experience (your information helps us to better respond to your individual needs)<\/li><li>&mdash; To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)<\/li><\/ul><p>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever<\/p><p>The email address you provide for information, may be used to send you updates pertaining to your needs, in addition to receiving occasional company news and updates.<\/p><p>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<\/p><h2>How do we protect your information?<\/h2><p>We implement a variety of security measures to maintain the safety of your personal information when you submit, or access your personal information.<\/p><h2>Do we use cookies?<\/h2><p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.)<\/p><p>We use cookies to help us remember information you showed an interest in. We save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.<\/p><p>If you prefer, you can adjust the preferences in your computers browser.<\/p><h2>Do we disclose any information to outside parties?<\/h2><p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<\/p><h2>Third party links<\/h2><p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<\/p><h2>California Online Privacy Protection Act Compliance<\/h2><p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<\/p><h2>Online Privacy Policy Only<\/h2><p>This online privacy policy applies only to information collected through our website and not to information collected offline.<\/p><h2>Your Consent<\/h2><p>By using our site, you consent to our web site privacy policy.<\/p>"
+                        }
+                }
+        },
+        {
+            "title":"Privacy Policy",
+            "url":"/privacy-policy/",
+            "background": {
+                "portrait": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+                "landscape": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            },
+            
+            "sub_nav":{
+                    "type":"list",
+                    "name":"disclaimer"
+                },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Pinnacle Law Privacy Policy<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<p>The information provided in this website is provided for informational purposes only. It does not contain nor is it intended to provide legal advice. This website is not a substitute for consulting with a lawyer. Readers of this website should not take any action, or refrain from taking any action, based upon the content of this website. While we attempt to keep the information on this website current, we make no guarantee that the information is accurate, complete, or up to date.<\/p><p>Nothing in this website is intended to create a lawyer-client relationship between the reader and Pinnacle Law, PLLC. Any information submitted to us through an email or a case evaluation form is not considered confidential or protected under the attorney-client privilege until the person submitting the information becomes a client of Pinnacle Law, PLLC. You are not considered a client of our law firm until you have signed a written fee agreement offered by us, and your case has been accepted by us. Whenever the laws of a particular state require Pinnacle Law, PLLC to offer or charge a client a fee on a different or alternative basis, Pinnacle Law, PLLC will comply with such laws and advise the client accordingly.<\/p><p>This website may contain links to external websites as a convenience to the reader. Pinnacle Law, PLLC is not responsible for the content or operation of any such external websites, and the presence of a link does not imply an endorsement of the linked website.<\/p><p>Pinnacle Law, PLLC does not intend to seek professional employment in any state or jurisdiction where this website would not comply with the applicable laws and ethical rules of that state or jurisdiction.<\/p>"
+                        }
+                }
+        }
+    ]
+}

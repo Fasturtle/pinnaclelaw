@@ -1,0 +1,78 @@
+{
+    "tabs":{
+        "traffic":[
+            {
+                "html":"Traffic <span class=\"small\">Violations<\/span>",
+                "url":"/traffic-law/regular/",
+                "tab":"regular"
+            },
+            {
+                "html":"CDL <span class=\"small\">Violations<\/span>",
+                "url":"/traffic-law/commercial/",
+                "tab":"commercial"
+            }
+        ]
+    },
+    "pages":[
+        {
+            "title":"Traffic Law",
+            "url":"/traffic-law/",
+            "background": {
+                "portrait": "/images/bg_traffic_law_video_portrait2.jpg",
+                "landscape": "/images/bg_traffic_law_video2.jpg"
+            },
+            "video_background":"/videos/traffic_law2",
+            "previous_url":"/dui/",
+            "next_url":"/contact/",
+            "sub_nav":{
+                    "type":"scroll",
+                    "url":"/contact/"
+                },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2><hr>"
+                        },
+                    "bottom":{
+                            "html":"<p>More than &ldquo;just&rdquo; a speeding ticket. Traffic violations pose serious threat to your career, your family...even your credit. To protect your livelihood against permanent damage caused by a traffic violation, we’re always one step ahead of the process.<\/p><a href=\"/traffic-law/overview/\" class=\"cta app-link\">Learn More<\/a>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom left"
+                        },
+                    "src":"/images/image_traffic_law_orange.png"
+                }
+        },
+        {
+            "title":"Traffic Law",
+            "url":"/traffic-law/overview/",
+            "tab":{
+                    "name":"traffic"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_overview_portrait.jpg",
+                "landscape": "/images/bg_traffic_overview.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<p>Whether you are a commercial truck driver or a civilian driver, a traffic violation could cost you. Between points on your record, criminal conviction, costly insurance premiums, and your license being revoked or suspended, your livelihood could be at risk. Don’t assume that traffic tickets and violations are no big deal -- only the experienced attorneys at Pinnacle Law can simplify this process and help you in court.<\/p>"
+                        }
+                }
+        }
+    ]
+}

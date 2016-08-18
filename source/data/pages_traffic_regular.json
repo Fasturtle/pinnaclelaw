@@ -1,0 +1,247 @@
+{
+    "lists":{
+        "traffic-regular":{
+            "links":{
+                "Criminal Speeding":"/traffic-law/speeding/",
+                "Racing On Highways":"/traffic-law/racing/",
+                "Reckless Driving & Negligence":"/traffic-law/reckless/",
+                "MVD & DMV":"/traffic-law/mvd-dmv/",
+                "Photo Radar":"/traffic-law/photo-radar/"
+            }
+        }
+    },
+    "pages":[
+        {
+            "title":"Traffic Law",
+            "url":"/traffic-law/regular/",
+            "next_url":"/traffic-law/speeding/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"regular"
+                },
+            "sub_nav":{
+                    "type":"scroll",
+                    "url":"/traffic-law/speeding/"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_regular_portrait.jpg",
+                "landscape": "/images/bg_traffic_regular.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<p>A ticket may seem little more than a temporary inconvenience. Without prompt action, traffic violations can quickly destroy your life, your job and your future. Tickets on your driving record may result in costly insurance premium increases, sometimes hindering eligibility for insurance at all. With added points to your license, ignoring a traffic violation can eventually lead to a suspended license or a warrant for your arrest. Our legal team will handle the multiple court dates that are required and negotiate with the prosecutor on your behalf. Do not walk into the courtroom alone.<\/p><p>Getting you back on the road without a dent in your record is our top priority. Pinnacle Law can drive results against:<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom right",
+                            "tablet":"bottom right",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_regular.png"
+                }
+        },
+        {
+            "title":"Traffic Law Speeding",
+            "url":"/traffic-law/speeding/",
+            "previous_url":"/traffic-law/regular/",
+            "next_url":"/traffic-law/racing/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"regular"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-regular"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_speeding_portrait.jpg",
+                "landscape": "/images/bg_traffic_speeding.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Criminal Speeding Violations<\/h3><p>A criminal speeding ticket is served in the same manner as a regular speeding ticket, but the repercussions are far more drastic. A check in the box marked “criminal” is all that stands between a ticket and a Class 3 misdemeanor. Because driving school is not an option, felony speeding appears on your Arizona driving record. Without Pinnacle Law, a criminal speeding ticket could result in up to 30 days in jail.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_speeding.png"
+                }
+        },
+        {
+            "title":"Traffic Law Racing",
+            "url":"/traffic-law/racing/",
+            "previous_url":"/traffic-law/speeding/",
+            "next_url":"/traffic-law/reckless/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"regular"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-regular"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_racing_portrait.jpg",
+                "landscape": "/images/bg_traffic_racing.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Racing On Highways<\/h3><p>This Class 1 misdemeanor occurs when any person driving a vehicle participates in a manner that displays ‘Exhibition of Speed’ or a ‘Test of Physical Endurance’ on any road in Arizona. A charge could result in up to 6 months in jail and serious future repercussions in terms of insurance premiums and suspension of your license. It’s not uncommon to be wrongly accused. Members of car clubs or motorcycle clubs in Arizona are often wrongly charged in part by the appearance and sounds of custom street vehicles. Racing or exhibition of speed is an 8-point violation on your record. Pinnacle Law will be there to defend your case.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_racing.png"
+                }
+        },
+        {
+            "title":"Traffic Law Reckless Driving",
+            "url":"/traffic-law/reckless/",
+            "previous_url":"/traffic-law/racing/",
+            "next_url":"/traffic-law/mvd-dmv/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"regular"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-regular"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_reckless_portrait.jpg",
+                "landscape": "/images/bg_traffic_reckless.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>What is Reckless Driving<\/h3><p>It can be easy to excessively speed and challenging to maneuver through traffic on Arizona’s far-reaching highways and city streets. Putting the pedal to the metal can land you with a reckless driving ticket.<\/p><p>While reckless driving is not a felony, it is punishable as a Class 2 misdemeanor. This could add 8 points to your driver’s license–the equivalent of four red light tickets in one day. A reckless driving charge is taken so seriously that it’s the only traffic crime besides a DUI that warrants a jury trial. Don’t face a jury alone. Without proper representation, you could be looking at a long process, jail time, and getting your license suspended or revoked.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_reckless.png"
+                }
+        },
+        {
+            "title":"Traffic Law MVD & DMV",
+            "url":"/traffic-law/mvd-dmv/",
+            "previous_url":"/traffic-law/reckless/",
+            "next_url":"/traffic-law/photo-radar/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"regular"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-regular"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_mvd_dmv_portrait.jpg",
+                "landscape": "/images/bg_traffic_mvd_dmv.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>MVD & DMV<\/h3><p>Is your license being suspended for DUI, points or other traffic violations? Not sure why your privileges are being revoked? That’s where Pinnacle Law steps in. As former prosecutors, we know what it takes to grant you an MVD hearing with a judge to help you reinstate your driving privileges, release MVD holds on your license and bring the suspension process to a screeching halt. Let our attorneys deal with MVD and get you back on the road.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_mvd_dmv.png"
+                }
+        },
+        {
+            "title":"Traffic Law Radar",
+            "url":"/traffic-law/photo-radar/",
+            "previous_url":"/traffic-law/mvd-dmv/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"regular"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-regular"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_radar_portrait.jpg",
+                "landscape": "/images/bg_traffic_radar.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Photo Radar<\/h3><p>While a handful of misconceptions exist about photo radar or \"speed cameras,\" these are facts you can rely on:<\/p><ul><li>&mdash; There are two ways to get photo radar tickets: red light infraction and speeding<\/li><li>&mdash; In the state of Arizona, two red light violations in a two-year period result in license suspension<\/li><li>&mdash; Throwing away your photo enforced ticket does not make it go away<\/li><li>&mdash; With, photo enforcement, you do not have to be served by an officer<\/li><li>&mdash; The process begins when you receive your ticket in the mail. Ignoring it will likely result in suspension of your license in Arizona or in your home state<\/li><\/ul>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_radar.png"
+                }
+        }
+    ]
+}

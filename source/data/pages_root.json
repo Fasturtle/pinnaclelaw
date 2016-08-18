@@ -1,0 +1,31 @@
+{
+    "pages":[
+        {
+            "title":"",
+            "url":"/",
+            "background": {
+                "portrait": "/images/bg_home_video_portrait.jpg",
+                "landscape": "/images/bg_home_video.jpg"
+            },
+            "video_background":"/videos/home",
+            "next_url":"/criminal-law/",
+            "sub_nav":{
+                    "type":"scroll",
+                    "url":"/criminal-law/"
+                },
+            "content":{
+                    "position":{
+                            "desktop":"center center",
+                            "tablet":"center center",
+                            "mobile":"center center"
+                        },
+                    "top":{
+                            "html":"<img src=\"/images/header_logo.png\" \/><span class=\"tagline1\">What you know about legal services won't be found here.<\/span><br><span class=\"tagline2\">THIS IS LAW HUMANIZED<span class=\"tm\">TM</span><\/span>"
+                        },
+                    "bottom":{
+                            "html":"<p>Our expertise is free of pretense &mdash; because it's not about us.<br>Tell us your story. We'll be your advocates and your voice.<\/p>"
+                        }
+                }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "lists":{
+        "our-team":{
+            "links":{
+                "John M. Rhude":"/our-team/john-rhude/",
+                "Brittany Rogers":"/our-team/brittany-rogers/",
+                "Janine Rodriguez":"/our-team/janine-rodriguez/"
+            }
+        }
+    },
+    "pages":[
+        {
+            "title":"Our Team",
+            "url":"/our-team/",
+            "background": {
+                "portrait": "/images/bg_about_portrait.jpg",
+                "landscape": "/images/bg_about.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Our Team<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h2>Pinnacle Law’s Mission<\/h2><p>To fervently represent and defend the livelihood of individuals facing criminal, DUI or traffic charges, while providing them with the personal attention, strong communication and respect they deserve.<\/p><a href=\"/our-team/john-rhude/\" class=\"cta app-link\">Learn More<\/a><p><img class=\"about_image\" src=\"\/images/logo_mcba.png\" alt=\"Maricopa County Bar Association\" \/><img class=\"about_image\" src=\"\/images/logo_sba.png\" alt=\"Scottsdale Bar Association\" \/><img class=\"about_image\" src=\"\/images/logo_state_bar.png\" alt=\"State Bar of Arizona\" \/><img class=\"about_image\" src=\"\/images/logo_nma.png\" alt=\"National Motorists Association\" \/><img class=\"about_image\" src=\"\/images/logo_bbb.png\" alt=\"Better Business Bureau\" \/><\/p>"
+                        }
+                }
+        },
+        {
+            "title":"John Rhude",
+            "url":"/our-team/john-rhude/",
+            "background": {
+                "portrait": "/images/bg_about_john_rhude_portrait.jpg",
+                "landscape": "/images/bg_about_john_rhude.jpg"
+            },
+            "next_url":"/our-team/brittany-rogers/",
+            "sub_nav":{
+                    "type":"list",
+                    "name":"our-team"
+                },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Our Team<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h2>John M. Rhude<\/h2><p>For more than 12 years, John M. Rhude has been changing the face of Arizona criminal law.<\/p><p>With over 20,000 cases under his belt, Rhude has not only obtained a winning record, he has also received recognition and honors for outstanding trial skills, knowledge of the law, and dedication to his profession. For the past eight years he has fought for the rights of Arizona citizens facing violent crime, domestic violence, drug and marijuana, DUI and traffic charges. <\/p><p>His comprehensive experience as both a Prosecutor and Defense Attorney makes him a force to be reckoned with. A former Prosecutor at the Maricopa County Attorney’s Office, Rhude served in multiple Trial Divisions, as well as the Major Crimes - Family Violence Division, and acted as a mentor for less experienced attorneys. He served as the Lead Prosecutor for the Arrowhead, North Valley, Manistee, and Hassayampa Justice Courts.<\/p><p>Rhude received his Juris Doctorate from Suffolk University School of Law in Boston after graduating from Hartwick College in NY. While attending Suffolk, he worked as a Victim Advocate for the Battered Women’s Advocacy Clinic at the Cambridge District Court in Cambridge, MA.<\/p>"
+                        }
+                }
+        },
+        {
+            "title":"Brittany Rogers",
+            "url":"/our-team/brittany-rogers/",
+            "background": {
+                "portrait": "/images/bg_about_brittany_rogers_portrait.jpg",
+                "landscape": "/images/bg_about_brittany_rogers.jpg"
+            },
+            "previous_url":"/our-team/john-rhude/",
+            "next_url":"/our-team/janine-rodriguez/",
+            "sub_nav":{
+                    "type":"list",
+                    "name":"our-team"
+                },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Our Team<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h2>Brittany Rogers<\/h2><p>My name is Brittany Rogers. An Arizona native, I have lived in the Phoenix area throughout my entire life. As the initial point of contact at Pinnacle Law, I will be paying close attention to your case, working diligently to ensure your needs are met. I believe strong communication is the foundation for any lasting relationship.<\/p><p>Whether it’s helping you learn about our services, reviewing paperwork, filing motions or communicating with your court, I am here to help you. I take pride in where I work, and my job is never done. It’s important to me that you thoroughly understand what’s happening in your case, and that you have all the access you need to our first-class team of legal professionals.<\/p><p>My passion is to help our clients through what can be the most difficult times in their lives. I am always available to bring clarity and comfort in moments of confusion and frustration.<\/p><p>I look forward to working on your case in tandem with the experienced attorneys at Pinnacle Law.<\/p>"
+                        }
+                }
+        },
+        {
+            "title":"Janine Rodriguez",
+            "url":"/our-team/janine-rodriguez/",
+            "background": {
+                "portrait": "/images/bg_about_janine_rodriguez_portrait.jpg",
+                "landscape": "/images/bg_about_janine_rodriguez.jpg"
+            },
+            "previous_url":"/our-team/brittany-rogers/",
+            "sub_nav":{
+                    "type":"list",
+                    "name":"our-team"
+                },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Our Team<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h2>Janine Rodriguez<\/h2><p>Hello, I’m Janine Rodriguez. As a legal assistant at Pinnacle Law, I work directly with our attorneys to ensure that we achieve the best possible outcome for you. From reviewing and filing motions to communicating directly with your court, I will always be here working for you.<\/p><p>I received a Bachelor’s Degree in Administration of Justice and a Master’s Degree in Communications from Arizona State University as well as a second Master’s of Education in Bilingual Education from Northern Arizona University.<\/p><p>I spent six years as a middle school teacher and district trainer and have over a decade of experience in the legal field.<\/p><p>My belief is that a strong work ethic, effective communication and treating people with respect are the keys to a successful relationship.<\/p><p>I have a true passion for helping our clients. My goal is always to make the process as smooth and seamless as possible.<\/p>"
+                        }
+                }
+        }
+    ]
+}

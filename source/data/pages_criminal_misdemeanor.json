@@ -1,0 +1,287 @@
+{
+    "lists":{
+        "criminal-misdemeanor":{
+            "links":{
+                "Assault":"/criminal-law/misdemeanor/assault/",
+                "Domestic Violence":"/criminal-law/misdemeanor/domestic-violence/",
+                "Disorderly Conduct":"/criminal-law/misdemeanor/disorderly-conduct/",
+                "Threat":"/criminal-law/misdemeanor/threat/",
+                "Criminal Damages":"/criminal-law/misdemeanor/criminal-damages/",
+                "Order Of Protection":"/criminal-law/misdemeanor/order-of-protection/"
+            }
+        }
+    },
+    "pages":[
+        {
+            "title":"Criminal Law Misdemeanor",
+            "url":"/criminal-law/misdemeanor/",
+            "next_url":"/criminal-law/misdemeanor/assault/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"misdemeanor"
+                },
+            "sub_nav":{
+                    "type":"scroll",
+                    "url":"/criminal-law/misdemeanor/assault/"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_misdemeanor_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_misdemeanor.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<p>For Pinnacle Law, winning is the goal. Our defensive strategy generates real, tangible results. We are relentless opponents—because your future depends on it.<\/p><p>The gloves are off. Scroll to see how we’ll fight for your rights against the following charges:<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom right",
+                            "tablet":"bottom right",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_misdemeanor.png"
+                }
+        },
+        {
+            "title":"Criminal Law Assault",
+            "url":"/criminal-law/misdemeanor/assault/",
+            "previous_url":"/criminal-law/misdemeanor/",
+            "next_url":"/criminal-law/misdemeanor/domestic-violence/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"misdemeanor"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-misdemeanor"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_misdemeanor_assault_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_misdemeanor_assault.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>What is Assault?<\/h3><p>We handle charges for assault regularly. Sadly, its frequency threatens the credibility of those falsely accused.<\/p><p>The legal definition of assault says that an assault is carried out by a threat of bodily harm coupled with an apparent, present ability to cause the harm.<\/p><p>In Arizona, an allegation of causing a physical injury or even touching a person without permission is all it takes to get arrested and charged with a Class 1 misdemeanor. Assault charges can result in a severe penalty, including up to 6 months in jail and a fine up to $2,500.00. Whether your case involved a physical altercation in a public place or in your own home, your side of the story is important. With Pinnacle Law by your side, you are not alone.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_misdemeanor_assault.png"
+                }
+        },
+        {
+            "title":"Criminal Law Domestic Violence",
+            "url":"/criminal-law/misdemeanor/domestic-violence/",
+            "previous_url":"/criminal-law/misdemeanor/assault/",
+            "next_url":"/criminal-law/misdemeanor/disorderly-conduct/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"misdemeanor"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-misdemeanor"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_misdemeanor_domestic_violence_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_misdemeanor_domestic_violence.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Domestic Violence Information<\/h3><p>These crimes can be associated with assault, disorderly conduct, threatening and intimidating, criminal damage, and orders of protection. In Arizona, domestic violence occurs when the parties cohabitate, are bonded by marriage, have children together, are family members or even roommates.<\/p><p>A criminal conviction involving domestic battery or spousal abuse has particularly negative consequences for families who cannot afford to have their livelihoods threatened. A conviction of domestic abuse can prove detrimental to career opportunities. Jail and lengthy counseling programs can become a reality without an aggressive and qualified attorney. Having a former family violence prosecutor working for you could make all the difference in your case.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_misdemeanor_domestic_violence.png"
+                }
+        },
+        {
+            "title":"Criminal Law Disorderly Conduct",
+            "url":"/criminal-law/misdemeanor/disorderly-conduct/",
+            "previous_url":"/criminal-law/misdemeanor/domestic-violence/",
+            "next_url":"/criminal-law/misdemeanor/threat/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"misdemeanor"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-misdemeanor"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_misdemeanor_disorderly_conduct_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_misdemeanor_disorderly_conduct.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>What is Disorderly Conduct<\/h3><p>The disorderly conduct definition includes disturbing the peace and quiet of a neighborhood, person or place. Whether it involves public intoxication or a breach of peace, disruptive or violent behavior can lead to convictions in Arizona, including up to 6 months of jail time and detrimental fines. Disorderly conduct is typically a misdemeanor charge. Our legal team is equipped with the experience to handle all types of cases including arguments in the home, public places, and general disturbances.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_misdemeanor_disorderly_conduct.png"
+                }
+        },
+        {
+            "title":"Criminal Law Threat",
+            "url":"/criminal-law/misdemeanor/threat/",
+            "previous_url":"/criminal-law/misdemeanor/disorderly-conduct/",
+            "next_url":"/criminal-law/misdemeanor/criminal-damages/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"misdemeanor"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-misdemeanor"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_misdemeanor_threat_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_misdemeanor_threat.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Threatening & Intimidating<\/h3><p>Words, conduct or actions that intended to threaten or intimidate. These actions may include injury to another person’s reputation and well-being. Threats are very subjective. A simple text, email or statement taken out of context can lead to criminal charges. These types of charges are punishable as a Class 2 misdemeanor under Arizona law.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_misdemeanor_threat.png"
+                }
+        },
+        {
+            "title":"Criminal Law Criminal Damage",
+            "url":"/criminal-law/misdemeanor/criminal-damages/",
+            "previous_url":"/criminal-law/misdemeanor/threat/",
+            "next_url":"/criminal-law/misdemeanor/order-of-protection/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"misdemeanor"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-misdemeanor"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_misdemeanor_damages_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_misdemeanor_damages.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Criminal Damage<\/h3><p>Criminal damage is a Class 2 misdemeanor and is one of the most common crimes that you will see in Arizona. If you and your partner get into an argument and physical damage is done to property, whether it is yours or not, you could serve up to 4 months in jail, face criminal charges, and obtain a permanent criminal record. Pinnacle Law has an experienced team that has worked in the family violence bureau at the Maricopa Country Attorney’s office. They have handled more than a thousand cases involving criminal damage. Having an experienced former prosecutor as your attorney that knows how to interpret police reports could mean the difference between you having a criminal record and your case being dismissed.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_misdemeanor_criminal_damages.png"
+                }
+        },
+        {
+            "title":"Criminal Law Order Of Protection",
+            "url":"/criminal-law/misdemeanor/order-of-protection/",
+            "previous_url":"/criminal-law/misdemeanor/criminal-damages/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"misdemeanor"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-misdemeanor"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_misdemeanor_order_protection_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_misdemeanor_order_protection.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>What is an Order Of Protection<\/h3><p>If you are served with an order of protection form, a restraining order, or an injunction against harassment, you have limited time—as little as 10 days—to request a hearing and to fight your case. Violation of a court and/or order of protection is a Class 1 misdemeanor in Arizona and, under certain circumstances, violators may be immediately detained until a judge can make a final decision regarding release. A conviction of violating an order of protection, interfering with judicial proceedings, could include a maximum jail sentence of 6 months, and a maximum fine of $2,500.00.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_misdemeanor_order_protection.png"
+                }
+        }
+    ]
+}

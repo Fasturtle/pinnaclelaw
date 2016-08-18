@@ -1,0 +1,265 @@
+{
+    "lists":{
+        "dui":{
+            "links":{
+                "Regular DUI":"/dui/regular/",
+                "Extreme DUI":"/dui/extreme/",
+                "Super Extreme DUI":"/dui/super-extreme/",
+                "Aggravated DUI":"/dui/aggravated/",
+                "Under Age DUI":"/dui/under-age/"
+            }
+        }
+    },
+    "pages":[
+        {
+            "title":"DUI",
+            "url":"/dui/",
+            "background": {
+                "portrait": "/images/bg_dui_video_portrait.jpg",
+                "landscape": "/images/bg_dui_video.jpg"
+            },
+            "video_background":"/videos/dui",
+            "next_url":"/traffic-law/",
+            "previous_url":"/criminal-law/",
+            "sub_nav":{
+                    "type":"scroll",
+                    "url":"/traffic-law/"
+                },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>DUI<\/h2><hr>"
+                        },
+                    "bottom":{
+                            "html":"<p>You’re not a criminal. On paper, a DUI charge has the power to change that. Our business is personal. We fight to prevent life’s challenges from defining you. With us, you have options, and a criminal conviction isn’t one of them.<\/p><a href=\"/dui/overview/\" class=\"cta light app-link\">Learn More<\/a>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom left"
+                        },
+                    "src":"/images/image_dui.png"
+                }
+        },
+        {
+            "title":"DUI",
+            "url":"/dui/overview/",
+            "next_url":"/dui/regular/",
+            "sub_nav":{
+                    "type":"scroll",
+                    "url":"/dui/regular/"
+                },
+            "background": {
+                "portrait": "/images/bg_dui_portrait.jpg",
+                "landscape": "/images/bg_dui.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>DUI<\/h2><hr>"
+                        },
+                    "bottom":{
+                            "html":"<p>It can be overwhelming to face the consequences of a DUI charge. What are your options? Can you afford the fines? How will this affect your job? You’re not alone. A DUI can happen to anyone, it doesn’t make you a criminal. But, if convicted, your record will prove different. In Arizona, DUI, Extreme DUI, and Super Extreme DUI are all misdemeanor offenses, meaning even a first offense can bring about serious repercussions.<\/p><p>We can bring clarity during this time of uncertainty. Your fate has not been decided. We’ll use our experience as former Arizona prosecutors to be your voice. Tent city jail time, probation, fines, license suspensions, points on your license, mandatory interlock ignition device—the aftermath of a DUI charge can prove detrimental to your future.<\/p><p>Our experienced law team will fight to dismiss or reduce the charges so you can maintain a clean record and move forward with your life. Pinnacle Law will empower you with the knowledge that you need to understand your legal rights against:<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "effect":"drunk",
+                    "src":"/images/image_dui_overview.png"
+                }
+        },
+        {
+            "title":"Regular DUI",
+            "url":"/dui/regular/",
+            "previous_url":"/dui/overview/",
+            "next_url":"/dui/extreme/",
+            "sub_nav":{
+                    "type":"list",
+                    "name":"dui"
+                },
+            "background": {
+                "portrait": "/images/bg_dui_regular_portrait.jpg",
+                "landscape": "/images/bg_dui_regular.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>DUI<\/h2><hr>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Regular DUI<\/h3><p>A DUI charge affects anyone under the influence of any substance that impairs the ability operate a vehicle safely. Impairment to the slightest degree or a blood alcohol concentration (BAC) of .08% or more means mandatory jail time of at least 1 day and a maximum of 6 months of incarceration. It is important to consult with our experienced legal team at Pinnacle Law to potentially avoid mandatory jail time, lengthy probation, counseling, license suspension, and ignition interlock device requirements.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "effect":"drunk",
+                    "src":"/images/image_dui_regular.png"
+                }
+        },
+        {
+            "title":"Extreme DUI",
+            "url":"/dui/extreme/",
+            "previous_url":"/dui/regular/",
+            "next_url":"/dui/super-extreme/",
+            "sub_nav":{
+                    "type":"list",
+                    "name":"dui"
+                },
+            "background": {
+                "portrait": "/images/bg_dui_extreme_portrait.jpg",
+                "landscape": "/images/bg_dui_extreme.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>DUI<\/h2><hr>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Extreme DUI<\/h3><p>With a blood alcohol concentration (BAC) of .15 or higher, charges become more severe and may result in 30 days to 6 months of incarceration. The judge may also order an ignition interlock device installation (IID) for a period of more than 12 months for defendants convicted of Extreme DUI. Pinnacle Law will explain to you the ways to fight back against Extreme DUI in order to protect you from these harsh penalties. Consult with our experienced legal team at Pinnacle Law to discuss the impact that jail, probation, counseling, license suspension and an ignition interlock device can have on your life.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "effect":"drunk",
+                    "src":"/images/image_dui_extreme.png"
+                }
+        },
+        {
+            "title":"Super Extreme DUI",
+            "url":"/dui/super-extreme/",
+            "previous_url":"/dui/extreme/",
+            "next_url":"/dui/aggravated/",
+            "sub_nav":{
+                    "type":"list",
+                    "name":"dui"
+                },
+            "background": {
+                "portrait": "/images/bg_dui_super_extreme_portrait.jpg",
+                "landscape": "/images/bg_dui_super_extreme.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>DUI<\/h2><hr>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Super Extreme DUI<\/h3><p>Penalties are even harsher for drivers charged with a BAC of .20 or more. Those charged will face a minimum of 45 days in jail without aggressive representation. License suspension, revocation of driving privileges, and long term interlock device requirements may become reality without a strong legal defense. Pinnacle Law will work hard to reduce your penalties or even possibly dismiss your case completely.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "effect":"drunk",
+                    "src":"/images/image_dui_super_extreme.png"
+                }
+        },
+        {
+            "title":"Aggravated DUI",
+            "url":"/dui/aggravated/",
+            "previous_url":"/dui/super-extreme/",
+            "next_url":"/dui/under-age/",
+            "sub_nav":{
+                    "type":"list",
+                    "name":"dui"
+                },
+            "background": {
+                "portrait": "/images/bg_dui_aggravated_portrait.jpg",
+                "landscape": "/images/bg_dui_aggravated.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>DUI<\/h2><hr>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Aggravated DUI<\/h3><p>This felony charge has the power to cause permanent damage to your personal record and requires prison time of 4 months to 3.75 years. This type of DUI occurs under the following circumstances:<\/p><ul><li>&mdash; DUI while your license is suspended or revoked<\/li><li>&mdash; Two or more DUIs within 84 months<\/li><li>&mdash; DUI with a child under 15 years of age in the vehicle<\/li><li>&mdash; DUI while under ignition interlock device (IID) restriction<\/li><\/ul>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "effect":"drunk",
+                    "src":"/images/image_dui_aggravated.png"
+                }
+        },
+        {
+            "title":"Under Age DUI",
+            "url":"/dui/under-age/",
+            "previous_url":"/dui/aggravated/",
+            "sub_nav":{
+                    "type":"list",
+                    "name":"dui"
+                },
+            "background": {
+                "portrait": "/images/bg_dui_under_age_portrait.jpg",
+                "landscape": "/images/bg_dui_under_age.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>DUI<\/h2><hr>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Under Age DUI<\/h3><p>If you are under 21 years of age, even a drop of alcohol in your system requires a 1 year suspension of your driving privileges. Underage DUI means a criminal conviction and it is classified as a class 1 misdemeanor. Those under 18 years of age could even face a 2 year suspension of their driving privileges without the help of the experienced legal team at Pinnacle Law. A criminal conviction can destroy a bright future, making it difficult to find employment or even gain acceptance into college.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "effect":"drunk",
+                    "src":"/images/image_dui_under_age.png"
+                }
+        }
+    ]
+}

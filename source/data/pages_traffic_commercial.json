@@ -1,0 +1,247 @@
+{
+    "lists":{
+        "traffic-commercial":{
+            "links":{
+                "Logbook":"/traffic-law/logbook/",
+                "Weight Violations":"/traffic-law/weight-violations/",
+                "Ports Of Entry":"/traffic-law/ports-of-entry/",
+                "Medical Card":"/traffic-law/medical-card/",
+                "CSA Points":"/traffic-law/csa-points/"
+            }
+        }
+    },
+    "pages":[
+        {
+            "title":"Traffic Law CDL",
+            "url":"/traffic-law/commercial/",
+            "next_url":"/traffic-law/logbook/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"commercial"
+                },
+            "sub_nav":{
+                    "type":"scroll",
+                    "url":"/traffic-law/logbook/"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_cdl_portrait.jpg",
+                "landscape": "/images/bg_traffic_cdl.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<p>Driving is more than a task—it’s your career and way of life. Commercial truckers are seldom set up for success. First, there’s the stress of long hours on lonely highways and strict timelines. Then add traffic conditions, weather hazards and road closures, and it can easily seem your mission is impossible.<\/p><p>Arizona trucking laws are already among the most stringent in the country. Unlike ordinary vehicles, probable cause isn’t necessary to get pulled over. With tougher mandates under the Compliance Safety Accountability (CSA) program, commercial truckers also deal with invasive inspection processes. At every stop, police aim to find violations–costing truck drivers hours of time, delayed deliveries and ultimately, their jobs.<\/p><p>For more than a decade our team has been serving hardworking truck drivers. We have come to understand the frustrations of the industry. We protect your livelihood against the following violations:<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom right",
+                            "tablet":"bottom right",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_cdl.png"
+                }
+        },
+        {
+            "title":"Traffic Law Logbook",
+            "url":"/traffic-law/logbook/",
+            "previous_url":"/traffic-law/commercial/",
+            "next_url":"/traffic-law/weight-violations/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"commercial"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-commercial"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_cdl_logbook_portrait.jpg",
+                "landscape": "/images/bg_traffic_cdl_logbook.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Logbook<\/h3><p>The most common commercial trucking violation, logbook violations make up one-fourth of all driver violations at the roadside. One simple mistake in your duty log status is all it takes to destroy your driving career and future employment. Criminal logbook violations are a Class 1 misdemeanor and can include jail time and CSA points.<\/p><p class=\"reference\">1. Reference: truckinginfo.com <a href=\"http://www.truckinginfo.com/article/story/2014/05/how-to-avoid-6-common-csa-violations.aspx\" target=\"_blank\">How to avoid 6 common CSA violations<\/a><\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_cdl_logbook.png"
+                }
+        },
+        {
+            "title":"Traffic Law Weight Violations",
+            "url":"/traffic-law/weight-violations/",
+            "previous_url":"/traffic-law/logbook/",
+            "next_url":"/traffic-law/ports-of-entry/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"commercial"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-commercial"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_cdl_weight_portrait.jpg",
+                "landscape": "/images/bg_traffic_cdl_weight.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Weight Violations<\/h3><p>Mistakes in your manifest or a slight overage in weight can lead to hefty fines, criminal charges and jail time. An error at the time your truck was loaded could cost you your job.<\/p><p class=\"reference\">1. Reference: truckinginfo.com <a href=\"http://www.truckinginfo.com/article/story/2014/05/how-to-avoid-6-common-csa-violations.aspx\" target=\"_blank\">How to avoid 6 common CSA violations<\/a><\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_cdl_weight.png"
+                }
+        },
+        {
+            "title":"Traffic Law Ports of Entry",
+            "url":"/traffic-law/ports-of-entry/",
+            "previous_url":"/traffic-law/weight-violations/",
+            "next_url":"/traffic-law/medical-card/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"commercial"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-commercial"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_cdl_ports_portrait.jpg",
+                "landscape": "/images/bg_traffic_cdl_ports.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Ports Of Entry<\/h3><p>The crime of failing to stop at any port of entry is subject to the penalty of a Class 1 misdemeanor. There are multiple court dates and the D.A. or prosecutors often seek criminal penalties including jail time and CSA points.<\/p><p class=\"reference\">1. Reference: truckinginfo.com <a href=\"http://www.truckinginfo.com/article/story/2014/05/how-to-avoid-6-common-csa-violations.aspx\" target=\"_blank\">How to avoid 6 common CSA violations<\/a><\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_cdl_ports.png"
+                }
+        },
+        {
+            "title":"Traffic Law Medical Card",
+            "url":"/traffic-law/medical-card/",
+            "previous_url":"/traffic-law/ports-of-entry/",
+            "next_url":"/traffic-law/csa-points/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"commercial"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-commercial"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_cdl_medical_card_portrait.jpg",
+                "landscape": "/images/bg_traffic_cdl_medical_card.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Medical Card<\/h3><p>One in eight driver violations are related to medical issues, often a failure to have a valid medical certificate. An oversight of your card’s expiration date adds more points to your CSA value. Police officers throughout Arizona take these requirements very seriously.<\/p><p class=\"reference\">1. Reference: truckinginfo.com <a href=\"http://www.truckinginfo.com/article/story/2014/05/how-to-avoid-6-common-csa-violations.aspx\" target=\"_blank\">How to avoid 6 common CSA violations<\/a><\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_cdl_medical_card.png"
+                }
+        },
+        {
+            "title":"Traffic Law CSA Points",
+            "url":"/traffic-law/csa-points/",
+            "previous_url":"/traffic-law/medical-card/",
+            "tab":{
+                    "name":"traffic",
+                    "active":"commercial"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"traffic-commercial"
+                },
+            "background": {
+                "portrait": "/images/bg_traffic_cdl_csa_points_portrait.jpg",
+                "landscape": "/images/bg_traffic_cdl_csa_points.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Traffic Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>CSA Points<\/h3><p>Any of the aforementioned violations result in increased CSA points. The higher your point value, the higher the risk for your career and livelihood. You can learn more about the CSA point system at the Federal Motor Carrier Safety Administration website below.<\/p><p class=\"reference\"><a href=\"https://csa.fmcsa.dot.gov\" target=\"_blank\">csa.fmcsa.dot.gov<\/a><\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_traffic_cdl_csa_points.png"
+                }
+        }
+    ]
+}

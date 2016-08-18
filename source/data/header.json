@@ -1,0 +1,27 @@
+{
+    "header":{
+        "type_links":{
+                "Criminal Law":"/criminal-law/overview/",
+                "DUI":"/dui/overview/",
+                "Traffic Law":"/traffic-law/overview/"
+            },
+        "info_links":{
+                "Contact":"/contact/",
+                "Our Team":"/our-team/"
+            },
+        "contact_info":{
+                "phone":"480.300.5380",
+                "email":"john.rhude@azpinnaclelaw.com"
+            },
+        "social_info":{
+                "facebook":"http://www.facebook.com/pinnaclelawaz",
+                "twitter":"http://www.twitter.com/pinnaclelaw",
+                "linkedin":"http://www.linkedin.com/company/pinnacle-law",
+                "google":"https://plus.google.com/114753237097029793437/about"
+            },
+        "privacy":{
+                "Disclaimer":"/disclaimer/",
+                "Privacy Policy":"/privacy-policy/"
+            }
+    }
+}

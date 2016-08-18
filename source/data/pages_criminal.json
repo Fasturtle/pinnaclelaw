@@ -1,0 +1,87 @@
+{
+    "tabs":{
+        "criminal":[
+            {
+                "html":"Misdemeanor <span class=\"small\">Charges<\/span>",
+                "url":"/criminal-law/misdemeanor/",
+                "tab":"misdemeanor"
+            },
+            {
+                "html":"Felony <span class=\"small\">Charges<\/span>",
+                "url":"/criminal-law/felony/",
+                "tab":"felony"
+            }
+        ]
+    },
+    "pages":[
+        {
+            "title":"Criminal Law",
+            "url":"/criminal-law/",
+            "background": {
+                "portrait": "/images/bg_criminal_law_video_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_video.jpg"
+            },
+            "video_background":"/videos/criminal_law",
+            "previous_url":"/",
+            "next_url":"/dui/",
+            "sub_nav":{
+                    "type":"scroll",
+                    "url":"/dui/"
+                },
+            "content":{
+                    "position":{
+                            "desktop":"center right",
+                            "tablet":"bottom right",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2><hr>"
+                        },
+                    "bottom":{
+                            "html":"<p>A felony charge is forever. As former Arizona prosecutors, our defensive strategy aims to disrupt threats against your record and reputation. Knowledge, experience and a genuine understanding of your unique situation can make all the difference. We support you. We understand. We’re in this together.<\/p><a href=\"/criminal-law/overview/\" class=\"cta app-link\">Learn More<\/a>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"top right",
+                            "tablet":"top right",
+                            "mobile":"top right"
+                        },
+                    "src":"/images/image_criminal_law.png"
+                }
+
+        },
+        {
+            "title":"Criminal Law",
+            "url":"/criminal-law/overview/",
+            "tab":{
+                    "name":"criminal"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_overview_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_overview.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<p>One charge changes everything. A criminal offense, felony or misdemeanor has the power take away your freedom and destroy your family’s future. As former prosecutors, our defense is always proactive. We work with tenacity and rigor to protect your freedom, reputation and livelihood.<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"top left"
+                        },
+                    "src":"/images/image_criminal_law_overview.png"
+                }
+        }
+    ]
+}

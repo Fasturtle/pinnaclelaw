@@ -1,0 +1,287 @@
+{
+    "lists":{
+        "criminal-felony":{
+            "links":{
+                "Violent Crimes":"/criminal-law/felony/violent-crimes/",
+                "Drug Offenses":"/criminal-law/felony/drug-offenses/",
+                "Marijuana":"/criminal-law/felony/marijuana/",
+                "Sex Crimes & Child Crimes":"/criminal-law/felony/sex-child-crimes/",
+                "Homicide & Manslaughter":"/criminal-law/felony/homicide-manslaughter/",
+                "Property Crimes":"/criminal-law/felony/property-crimes/"
+            }
+        }
+    },
+    "pages":[
+        {
+            "title":"Criminal Law felony",
+            "url":"/criminal-law/felony/",
+            "next_url":"/criminal-law/felony/violent-crimes/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"felony"
+                },
+            "sub_nav":{
+                    "type":"scroll",
+                    "url":"/criminal-law/felony/violent-crimes/"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_felony_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_felony.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<p>When your home, career and lifestyle are at stake, we bring clarity and hope to a stressful situation. Felony charges are never cut and dry; the laws are complicated and vary case-by-case. A felony charge could result in mandatory prison time, along with damage to your reputation and future aspirations. Whether you are an innocent bystander or fell victim to a bad decision, we are prepared to tell your story and be your voice.<\/p><p>With more than a decade of experience and over 20,000 cases successfully handled, our best attorney will represent you in your case against:<\/p>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_felony.png"
+                }
+        },
+        {
+            "title":"Criminal Law Violent Crimes",
+            "url":"/criminal-law/felony/violent-crimes/",
+            "previous_url":"/criminal-law/felony/",
+            "next_url":"/criminal-law/felony/drug-offenses/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"felony"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-felony"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_felony_violent_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_felony_violent.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Violent Crimes<\/h3><p>Also classified as a \"dangerous offenses\", the violent crime definintion refers to an offense that involves force or threat of force and often results in mandatory prison time, in addition to other lifelong consequenses.<\/p><p>A violent crime is considered a felony, meaning your job, family and freedom are at risk. In Arizona, these crimes come with severe punishments. Without an experienced attorney, a conviction will likely result in a lengthy prison sentence of 3 to 15 years even without having a prior record. As former prosecutors, we know how to mount the best defense against all types of crimes:<\/p><ul><li>&mdash; Aggravated Assault<\/li><li>&mdash; Kidnapping<\/li><li>&mdash; Armed Robbery<\/li><li>&mdash; Aggrevated Robbery<\/li><li>&mdash; Weapons Charges<\/li><\/ul>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom left",
+                            "tablet":"bottom left",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_felony_violent.png"
+                }
+        },
+        {
+            "title":"Criminal Law Drug Offenses",
+            "url":"/criminal-law/felony/drug-offenses/",
+            "previous_url":"/criminal-law/felony/violent-crimes/",
+            "next_url":"/criminal-law/felony/marijuana/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"felony"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-felony"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_felony_drug_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_felony_drug.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Drug Offenses<\/h3><p>Are you a victim of unreasonable search and seizure? Do you feel the officer violated your rights? We understand the stress and frustration that comes from a drug violation. That’s why we challenge the case and use the law to defend your rights against unreasonable search and seizure. If you are faced with unjust drug charges, an experienced attorney with a thorough understanding of Arizona's drug laws will fight to bring the justice you deserve. We have the knowledge and determination to defend you when a police officer illegally stops you in your vehicle and a search leads to the following charges:<\/p><ul class=\"accordion\"><li><h4>Possession of Narcotic Drugs<br\/>(Posession of a Controlled Substance)<\/h4><div class=\"content-wrap\"><p>A narcotic can be anything found in your medicine cabinet such as prescription drugs and cocaine, heroin, opium, morphine and oxycodone. An expired prescription, medicine found without a prescription bottle, or illegal drugs are all that it takes to get charged with felony drug charges.<\/p><\/div><\/li><li><h4>Possession of Dangerous Drugs<\/h4><div class=\"content-wrap\"><p>This Class 4 felony includes possession of methamphetamines, LSD, ecstasy, steroids and GHB among others. An experienced attorney is necessary in defending your case.<\/p><\/div><\/li><li><h4>Sale and transportation of Drugs<\/h4><div class=\"content-wrap\"><p>Selling, transporting or distribution of any of the aforementioned drugs is considered a Class 2 felony, punishable with possible prison time and resulting in a permanent criminal record.<\/p><\/div><\/li><\/ul>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom right",
+                            "tablet":"bottom right",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_felony_drug.png"
+                }
+        },
+        {
+            "title":"Criminal Law Marijuana",
+            "url":"/criminal-law/felony/marijuana/",
+            "previous_url":"/criminal-law/felony/drug-offenses/",
+            "next_url":"/criminal-law/felony/sex-child-crimes/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"felony"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-felony"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_felony_marijuana_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_felony_marijuana.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Marijuana<\/h3><p>The marijuana legality is never easy to understand. Issues of federal law conflicting with marijuana state laws make cases involving marijuana among the most convoluted drug offenses in Arizona. We are well-versed in the widespread complexity of cannabis laws and have the experience to prove it. We will stand behind you and fight for your rights in cases related to:<\/p><ul class=\"accordion\"><li><h4>Medical Marijuana<\/h4><div class=\"content-wrap\"><p>The law is complicated and its nuances can be confusing. There are questions regarding reciprocity with other states. Even if you have your medical marijuana card, you may still be charged with a crime of possession. Pinnacle Law can help you in defending your case.<\/p><\/div><\/li><li><h4>Cultivation of Marijuana<\/h4><div class=\"content-wrap\"><p>Licensed cultivators face serious scrutiny under tough laws. Distribution mandates are strict and unclear. For instance, what many cultivators deem a donation can be charged as a sale in the eyes of state law. The penalties for possession of marijuana for sale could result in prison time and up to $150,000 in fines.<\/p><\/div><\/li><li><h4>Sale and Transit of Marijuana<\/h4><div class=\"content-wrap\"><p>The penalties for selling, growing, and transporting marijuana are severe in Arizona. Depending on the amount of marijuana involved, a conviction is punishable by heavy fines, jail time, and prison time. Driving with marijuana in your vehicle is considered transportation of drugs even if you did not have plans on selling it. These cases are all considered felonies. The circumstances of your case are important and your story matters to us. Contact Pinnacle law to discuss your case right away.<\/p><\/div><\/li><\/ul>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom right",
+                            "tablet":"bottom right",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_felony_marijuana.png"
+                }
+        },
+        {
+            "title":"Criminal Law Sex Crimes & Child Crimes",
+            "url":"/criminal-law/felony/sex-child-crimes/",
+            "previous_url":"/criminal-law/felony/marijuana/",
+            "next_url":"/criminal-law/felony/homicide-manslaughter/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"felony"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-felony"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_felony_sex_child_crimes_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_felony_sex_child_crimes.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Sex Crimes & Child Crimes<\/h3><p>These extremely serious and complex cases could ruin your record for a lifetime. A simple accusation could result in registry on the sex offender list as well as time served. We have over a decade of experience fighting against these delicate matters and are prepared to fight tirelessly for your innocence. Strong communication with your attorney about what happened may be the difference between going to prison as a sex offender and your case being dismissed.<\/p><ul class=\"accordion\"><li><h4>Child Endangerment<\/h4><div class=\"content-wrap\"><p>Exposing a child to situations that threaten their health or life are grounds for child endangerment charges. Whether the act was intentional or reckless, the penalties are very severe and may include jail or prison time. Common scenarios include leaving a child unattended in a vehicle, driving while intoxicated with a child in the vehicle and serving alcohol to an underage driver, among others.<\/p><\/div><\/li><li><h4>Sexual Abuse<\/h4><div class=\"content-wrap\"><p>Arizona law defines sexual abuse as engaging in sexual contact with someone over the age of 15 without that person's consent. This is a Class 5 felony unless it involved a victim under the age of 15, in which case, this would be charged as a Class 3 felony.<\/p><\/div><\/li><li><h4>Statutory Rape<\/h4><div class=\"content-wrap\"><p>Accusations of having sex with a minor may be dismissed if it can be shown that the defendant did not know or could not have known that the victim was under the age of 18. Even if a minor consented and you were lead to believe that they were of legal age, you could still be charged with statutory rape.<\/p><\/div><\/li><li><h4>Contribution to the Delinquency of a Minor<\/h4><div class=\"content-wrap\"><p>Arizona law defines this as any act that causes, encourages or contributes to the dependency or delinquency of a child. Adults have a responsibility to protect their children. When others question your parental decisions, you will need an experienced attorney who will listen to your story and help you.<\/p><\/div><\/li><\/ul>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom right",
+                            "tablet":"bottom right",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_felony_sex_child_crimes.png"
+                }
+        },
+        {
+            "title":"Criminal Law Homicide & Manslaughter",
+            "url":"/criminal-law/felony/homicide-manslaughter/",
+            "previous_url":"/criminal-law/felony/sex-child-crimes/",
+            "next_url":"/criminal-law/felony/property-crimes/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"felony"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-felony"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_felony_homicide_manslaughter_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_felony_homicide_manslaughter.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Murder vs. Manslaughter<\/h3><p>What is manslaughter? The main differentiating factor between homicide and manslaughter is whether the defendant committed the act intentionally or not. To be convicted of manslaughter, the prosecution must prove that you did not plan to commit the crime. A guilty verdict is equally severe for either charge. With the exception of the death penalty, manslaughter charges face many of the same penalties as murder convictions.<\/p><p>The circumstances of your case are unique to you, and our experience will help you and your family through a difficult time. Working together, we can make sense of this tragedy, resolve your case, and be there to answer all of your questions. You are already guilty in the eyes of the prosecution, and the process to prove your innocence will be long, stressful and invasive. We fight for your rights under the following circumstances:<\/p><ul class=\"accordion\"><li><h4>Intent<\/h4><div class=\"content-wrap\"><p>Intentionally taking another person’s life, or murder, is the most severe crime that a person can commit. The penalties are equally harsh. If convicted, you could be sentenced to life in prison, heavy fines, restitution to the victim’s family, and even the death penalty.<\/p><\/div><\/li><li><h4>Reckless<\/h4><div class=\"content-wrap\"><p>Reckless conduct is generally defined as having no regard for the safety of others. These cases are usually associated with DUI and unintended accident. A common scenario is when driving while intoxicated results in the death of another person. A conviction could lead to severe penalties leading to the loss of your freedom, family and future.<\/p><\/div><\/li><li><h4>Negligence<\/h4><div class=\"content-wrap\"><p>Under Arizona law, Criminal negligence is generally defined as a failure to recognize a serious risk that a reasonable person would have acknowledged in a given situation. One bad mistake on the road, or any situation, that leads to the death of another person could result in felony charges penalized by a prison sentence.<\/p><\/div><\/li><\/ul>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom right",
+                            "tablet":"bottom right",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_felony_homicide_manslaughter.png"
+                }
+        },
+        {
+            "title":"Criminal Law Property Crimes",
+            "url":"/criminal-law/felony/property-crimes/",
+            "previous_url":"/criminal-law/felony/homicide-manslaughter/",
+            "tab":{
+                    "name":"criminal",
+                    "active":"felony"
+                },
+            "sub_nav":{
+                    "type":"list",
+                    "name":"criminal-felony"
+                },
+            "background": {
+                "portrait": "/images/bg_criminal_law_felony_property_portrait.jpg",
+                "landscape": "/images/bg_criminal_law_felony_property.jpg"
+            },
+            "content":{
+                    "position":{
+                            "desktop":"top left",
+                            "tablet":"top left",
+                            "mobile":"top left"
+                        },
+                    "top":{
+                            "html":"<h2>Criminal Law<\/h2>"
+                        },
+                    "bottom":{
+                            "html":"<h3>Property Crimes<\/h3><p>The property crime definition offers an umbrella of crimes that vary in severity based on the circumstance of your case. From petty theft to grand larceny, the value of the items in question and the manner in which the crime was committed have a direct impact as to whether a property crime is considered a misdemeanor or a felony. Property crimes may seem minor, but significant penalties that come with a conviction are life-altering, and your character and good name are under attack.<\/p><p>Don’t let one mistake define your future. A guilty verdict could result in jail time or prison and ruin your reputation. Only a former prosecutor will know how to mount the best defense to represent your case against the following charges:<\/p><ul><li>&mdash; Theft<\/li><li>&mdash; Trespassing<\/li><li>&mdash; Shoplifting<\/li><li>&mdash; Robbery<\/li><li>&mdash; Weapons Charges<\/li><\/ul>"
+                        }
+                },
+            "image":{
+                    "position":{
+                            "desktop":"bottom right",
+                            "tablet":"bottom right",
+                            "mobile":"bottom center"
+                        },
+                    "src":"/images/image_criminal_law_felony_property.png"
+                }
+        }
+    ]
+}
